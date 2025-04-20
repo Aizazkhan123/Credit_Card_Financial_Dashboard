@@ -2,6 +2,7 @@
 Power Bi Dashboard
 
 🔍 Key Metrics Overview
+
 •	Total Revenue: $55.3M
 •	Total Interest: $7.8M
 •	Total Income: $575.9M
